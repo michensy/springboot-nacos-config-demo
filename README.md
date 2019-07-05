@@ -1,9 +1,5 @@
-# SpringCache整合 redis + json序列化
+# Springboot整合 nacos配置中心
 
 ## 项目依赖
 * spring-boot
-* tk-mybatis
-* druid
-* lombok
-* redis
-* 
+* nacos-client
